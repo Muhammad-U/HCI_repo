@@ -31,6 +31,7 @@ body{
     float: left;
 }
 ul#menu li{
+	border-radius:25px;
     display: block;
     list-style: none;
     padding: 25px 15px;
