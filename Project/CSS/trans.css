@@ -19,6 +19,10 @@ body{
     background-color: black;
     color: #fff;
 }
+.new a{
+    padding: 14px 16px;
+    color: white;
+    }
 .header{
     grid-area: header;
     overflow: hidden;
