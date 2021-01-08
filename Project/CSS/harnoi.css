@@ -49,6 +49,9 @@ ul.breadcrumb li+li:before {
   color: white;
   content: "/\00a0";
 }
+a {
+    color:red;
+}
 ul.breadcrumb li a {
   color: #0275d8;
   text-decoration: none;
