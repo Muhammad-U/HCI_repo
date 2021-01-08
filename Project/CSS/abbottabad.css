@@ -17,6 +17,9 @@ body{
     background-color: black;
     color: #fff;
 }
+a {
+    color:red;
+}
 .header{
     grid-area: header;
     overflow: auto;
