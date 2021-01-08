@@ -177,7 +177,7 @@ hr{
     padding-left: 20px;
 }
 .right2{
-    float: left;
+    float: right;
     grid-area: right2;
     overflow: hidden;
     padding-left: 20px;
